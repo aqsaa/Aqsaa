@@ -1,6 +1,5 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+public class code{
+public static void main(String [] aqsa){
+System.out.println("Welcome to my tutorial baby");
+}
+}
